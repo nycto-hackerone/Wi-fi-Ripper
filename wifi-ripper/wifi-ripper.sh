@@ -6,7 +6,7 @@
 ############################################################################
 
 
-# WiFi Ripper v1.9
+# WiFi Ripper v1.1
 # Nycto 2018
 
 # https://github.com/nycto-hackerone/wifi-ripper/
@@ -513,7 +513,7 @@ setVariablesRequired(){
 
 	currentTask="setVariablesRequired"
 
-	versionBase="1.9"
+	versionBase="1.1"
 	versionBaseClean="00"
 
 	initPath="$PWD"
